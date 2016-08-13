@@ -1,14 +1,14 @@
 layout_spectrum: 0.779332360252738
-typography_spectrum: 0.34794654604047537
+typography_spectrum: 0.6413903625216335
 color:
-  brandStrength: 0.6838003844022751
-  lightness: 0.8675525388680398
-  saturation: 0.9064119779504836
-  rhythmicContrast: 0.6773340057116002
+  brandStrength: 0.3829755641054362
+  lightness: 0.03700053156353533
+  saturation: 0.9864725894294679
+  rhythmicContrast: 0.9823145167902112
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
 name: endless machines

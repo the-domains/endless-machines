@@ -1,14 +1,26 @@
-layout_spectrum: 0.779332360252738
-typography_spectrum: 0.6413903625216335
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.8476703
 color:
+  saturation: 0.750896
   brandStrength: 0.3829755641054362
-  lightness: 0.03700053156353533
-  saturation: 0.9864725894294679
-  rhythmicContrast: 0.9823145167902112
+  lightness: 0.5
   brandColors:
     - '#F6F792'
     - '#333745'
     - '#77C4D3'
     - '#DAEDE2'
     - '#EA2E49'
+  rhythmicContrast: 0.9823145
+layout_spectrum: 1
 name: endless machines
